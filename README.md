@@ -5,7 +5,9 @@ The project contains multiple directory, each with its own kind of Scopy, i.e Su
 
 The Directory names are self explanatory. 
 
-Some Images to show how scoppy might look
+# IMAGES
+
+## Scoppy SMD Single sided PCB
 ![SCOPPY SMD single sided](./pipicoossciloscope_SMD//pipicoossciloscope.png)
 
 ![SCOPPY SMD Single Side Ortho](./pipicoossciloscope_SMD/pipicoossciloscope1.png)

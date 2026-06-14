@@ -6461,7 +6461,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Coaxial:BNC_TEConnectivity_1478035_Horizontal"
+		(property "Footprint" "Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal"
 			(at 57.15 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -12366,7 +12366,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Coaxial:BNC_TEConnectivity_1478035_Horizontal"
+		(property "Footprint" "Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal"
 			(at 31.75 24.13 0)
 			(hide yes)
 			(show_name no)
